@@ -1,9 +1,10 @@
-# MNG Kargo - Php Entegrasyon Kütüphanesi
+# MNG Kargo - Php Entegrasyon Kütüphanesi 
 Bu kütüphane sayesinde MNG Kargo ile entegre bir şekilde kargo oluşturabilir, kargo durumunu sorgulayabilir ve kargonuzu iptal edebilirsiniz.
 
-https://sandbox.mngkargo.com.tr üzerinden çalışacak şekilde düzenlenmiştir.
+<br>Bu trait sınıfı opencart içindir.
+<br>https://sandbox.mngkargo.com.tr üzerinden çalışacak şekilde düzenlenmiştir.
 
-Daha bitmedi eksikleri vardır ...
+
 
 
 
