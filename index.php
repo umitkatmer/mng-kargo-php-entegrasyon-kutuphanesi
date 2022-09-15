@@ -104,7 +104,7 @@ trait MngTrait {
 	  ),
 	);
 	
-	
+	 // kapıda ödeme de parametreler değişmektedir
 	 if($order_info['payment_code']=='cod') {
 		 
 		 if (is_array($mngkargo_pays) && in_array($order_info['payment_code'], $mngkargo_pays)) { 
